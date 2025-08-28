@@ -1,0 +1,241 @@
+TagID,TagName,Tag Description
+1,proof,"A mathematical proof is any mathematical argument which demonstrates the truth of a mathematical statement. Informal proofs are typically rendered in natural language and are held true by consensus; formal proofs are typically rendered symbolically and can be checked mechanically. ""Proofs"" can be valid or invalid; only the former kind constitutes actual proof, whereas the latter kind usually refers to a flawed attempt at proof."
+2,directed-graph,"A directed graph is a set of objects (called vertices or nodes) that are connected together, where all the edges are directed from one vertex to another. A directed graph is sometimes called a digraph or a directed network."
+3,probability,"Consider if your question would be better at stats.stackexchange.com. Probability touches upon uncertainty, random phenomena, random numbers, random variables, probability distributions, sampling, combinatorics."
+4,a-star,A* is a graph shortest-path algorithm that uses a heuristic function to speed up the search
+5,finite-automata,"A finite automaton (FA) is a mathematical description of an algorithm capable of parsing regular languages. FAs have no external memory, and as such can only take into account a fixed number of previous symbols when processing strings. A deterministic FA (DFAs) is one for which there is only ever one legal transition between states; nondeterministic FAs can be transformed into equivalent DFAs. FAs are the weakest of the commonly-defined automata."
+6,dijkstra,"Dijkstra's algorithm, conceived by Dutch computer scientist Edsger Dijkstra is a graph search algorithm that solves the single-source shortest path problem for a connected graph with nonnegative edge path costs, producing a shortest path tree. This algorithm is often used in routing and as a subroutine in other graph algorithms."
+7,priority-queue,"A priority queue is an abstract data type (ADT) which defines a container for a set of elements, each of which has an associated ""priority"".  The ADT specifies a method to access the highest priority element, which can be either a minimum or a maximum."
+8,heap-memory,The heap is process memory set aside for dynamic allocation.
+9,hashmap,"A data structure that uses a hash function to map identifying values, known as keys, to their associated values"
+10,string-concatenation,String concatenation is the operation of joining two character strings end-to-end.
+11,breadth-first-search,"In graph theory, breadth-first search (BFS) is a graph search algorithm that begins at the root node and explores all the neighboring nodes. Then for each of those nearest nodes, it explores their unexplored neighbor nodes, and so on, until it finds the goal."
+12,set,"A set is a collection in which no element is repeated, which may be able to enumerate its elements according to an ordering criterion (an ""ordered set"") or retain no order (an ""unordered set"")."
+13,hashcode,"A hash code is a result of applying a hash function to data, usually resulting in an integer."
+14,np-complete,"NP-Complete refers to the hardest known problems within the complexity class NP.  The ""Traveling salesman problem"" is one of the most widely known NP-Complete problems."
+15,knapsack-problem,"The knapsack problem is a problem in combinatorial optimization: Given a set of items with associated weights and values, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and it maximizes the total value. It is an NP-complete problem, but several common simplifications are solved efficiently with dynamic programming."
+16,mathematical-optimization,"Mathematical optimization deals with maximizing or minimizing an objective function by choosing input values from within an allowed feasible set, given by constraints and other criteria. It is often also referred to as mathematical programming. Commonly, it is either discrete (combinatorial) optimization, or continuous."
+17,linear-programming,"An optimization technique for minimizing or maximizing a function of several variables in the presence of constraints where all relationships are linear.
+"
+18,clique,"In the mathematical area of graph theory, a clique in an undirected graph is a subset of its vertices such that every two vertices in the subset are connected by an edge."
+19,sparse-array,"In computer science, a sparse array is an array in which most of the elements have the same value (known as the default value—usually 0 or null)."
+20,dynamic-programming,"Dynamic programming is an algorithmic technique for efficiently solving problems which have recursive structure with many overlapping subproblems. Do NOT use this tag for general ""dynamic"" behavior in code."
+21,quicksort,Quicksort is a sorting algorithm invented by C. A. R. Hoare that has an average-case complexity of O(n log n) and worst-case quadratic complexity.  It is one of the fastest general-purpose sorting algorithms.
+22,digraphs,"A 'digraph' means 'one symbol written as two characters'. In printing it meant two letters cast as one piece of lead, e.g. ae, fi, ..."
+23,code-complexity,Code complexity is measure of the degree of complexity in code.
+24,subgraph,"Use this tag for questions related to a Subgraph, a part of a larger graph."
+25,tree-traversal,The process of visiting each node in a tree based on certain criterion.
+26,binary-heap,binary-heap
+27,clique-problem,"In computer science, the clique problem refers to any of the problems related to finding particular complete subgraphs (""cliques"") in a graph, i.e., sets of elements where each pair of elements is connected."
+28,multidimensional-array,Multidimensional-arrays can be described as multi-dimensional tables. Each index used in order to find a given element is called a dimension.
+29,satisfiability,Satisfiability (often written in all capitals or abbreviated SAT) is the problem of determining if the variables of a given Boolean formula can be assigned in such a way as to make the formula evaluate to TRUE.
+30,adjacency-list,"An adjacency list is a representation of a graph, a collection of unordered lists, one for each vertex in the graph."
+31,hash-collision,"a situation that occurs when two distinct pieces of data have the same hash value, checksum, fingerprint, or cryptographic digest."
+32,string-substitution,"Substituting string excerpts via sed, awk and other utilities."
+33,quadratic-probing,Quadratic probing is an open addressing scheme in computer programming for resolving collisions in hash tables
+34,disjoint-sets,"Anything related to disjoint sets, i.e. mathematical sets that have no element in common."
+35,amortized-analysis,An amortized analysis is an analysis of the total runtime of a set of operations rather than the individual runtime of any one operation.
+36,directed-acyclic-graphs,Directed acyclic graphs appear in many data structures such a changeset graphs in distributed version control systems.
+37,adjacency-matrix,A means of representing which vertices (or nodes) of a graph are adjacent to which other vertices.
+38,set-intersection,The intersection of two or more sets consists of the elements that those sets all have in common.
+39,stable-marriage,Use this tag for algorithms which solve the stable marriage problem from graph theory.
+40,space-complexity,"The space complexity of an algorithm quantifies the amount of memory taken by an algorithm to run as a function of the size of the input to the problem. The space complexity of an algorithm is commonly expressed using big O notation, which suppresses multiplicative constants and lower order terms."
+41,consistent-hashing,"Consistent Hashing, a process discovered by Karger et al. at MIT, is a special kind of hashing such that when a hash table is resized only K/n keys need to be remapped unlike normal hashing techniques"
+42,graph-algorithm,"Graph Algorithms are a sequence of well-defined steps that will solve a problem related to Graph Theory, where a Graph in this context is a collection of vertices (""nodes"") and edges that connect these vertices."
+43,np,"NP (""nondeterministic polynomial"") is a complexity class of decision problems that can be solved by a nondeterministic Turing machine in polynomial time.  Equivalently, it is the set of decision problems for which an answer can be verified in polynomial time by a deterministic Turing machine."
+44,binary-search-tree,"A binary search tree is a data structure which consists of a root node with left and right child nodes. The left node and all of its descendants have smaller values than the root node, while the right node and all of its descendants have larger values than the root node. The children of the root node follow this same pattern. This gives us a tree consisting of ordered elements."
+45,tarjans-algorithm,Tarjan's algorithm is a linear-time algorithm for finding all strongly-connected components of a directed graph.
+46,kruskals-algorithm,An algorithm for finding the minimum spanning tree for a connected weighted graph using a greedy search.
+47,set-union,"In set theory, the union (denoted by ∪) of a collection of sets is the set of all distinct elements in the collection. It is one of the fundamental operations through which sets can be combined and related to each other.  
+
+In C++, set_union() constructs a sorted range consisting of all elements present in one or both sorted input ranges."
+48,strongly-connected-graph,strongly-connected-graph
+49,heap-table,A heap table usually refers to a database table whose records are stored without any specific order. It can have a different meaning for different database engines. Use in combination with the appropriate database engine tag.
+50,heaps-algorithm,Heap's algorithm generates all possible permutations of n objects. The algorithm minimizes movement: it generates each permutation from the previous one by interchanging a single pair of elements
+51,complexity-theory,"Computational Complexity Theory is a branch of the theory of computation in theoretical computer science and mathematics that focuses on classifying computational problems according to their inherent difficulty. Particularly common in programming is ""amortized analysis"" for  time or space. Questions must relate to programming. For theoretical Computer Science questions, please ask on https://cs.stackexchange.com/."
+52,big-o,The Big-O notation is used to represent asymptotic upper bounds.  It describes relevant time or space complexity of algorithms. Big-O analysis provides a coarse and simplified estimate of a problem difficulty. 
+53,stack,"A stack is a last in, first out (LIFO) abstract data type and data structure. For questions about the assembly call stack, use [stack-memory], [stack-pointer], and/or [stack-frame] instead. For questions about the Haskell build tool, use [haskell-stack] instead. For questions about C++ std::stack, use [stdstack] instead."
+54,mergesort,Merge sort is an O(n log n) worst-case comparison-based stable sorting algorithm.
+55,binary-tree,A tree data structure in which each node has at most two child nodes.
+56,boolean-logic,"An algebraic system developed by George Boole. Uses operations such as ""And"", ""Or"" and ""Not"" on Binary True/False values. It may be used to accomplish complex tasks."
+57,memory-management,"Process of dynamically allocating and freeing portions of physical memory in order to respond to program requests with, if possible, fairness and no starvation among the requesters."
+58,boolean,A Boolean data type is a data type with only two possible values: true or false.
+59,b-tree,B-trees are a type of self balancing search tree where each node can hold multiple keys and all leaf nodes are the same distance from the root.
+60,tail-recursion,"Tail recursion is a recursive strategy in which a function does some amount of work, then invokes itself. The ""tail"" refers to the fact that the recursion is at the very end of the function. Many -- especially functional -- programming language compilers can turn these types of calls into iteration, meaning tail recursion in supported languages can be used without fear of a stack overflow, regardless of the number of calls."
+61,partitioning,Partitioning is a performance strategy whereby you divide possibly very large groups of data into some number of smaller groups of data.
+62,set-theory,"Set theory is a branch of logic which studies collections of distinct elements, called sets.  Topics include set operations (such as intersection and union), relations and mappings between sets, and the ordering of elements of sets (often through binary predicates)."
+63,treenode,The base element of a hierarchical tree-like data structure.
+64,artificial-intelligence,"Artificial intelligence (AI) is the branch of computer science and technology that studies the development of machines able to simulate aspects of human intelligence. This tag may also refer to the part of a computer game application that controls the behavior of the virtual characters with which the player may interact during the game, offering immersive and dynamic gameplay experiences."
+65,heuristics,Heuristics refers to the use of algorithms to deal with highly complex problems.
+66,substring,"Part of a string, or the function/method that returns part of a string"
+67,graph-theory,"A graph is a mathematical structure that contains a collection of vertices or 'nodes' and a collection of edges that connect pairs of vertices. Graphs can be undirected or directed, where edges are directed, indicating from which vertex they start and to which they lead ( be it other or the same )."
+68,hash-function,A hash function is an algorithm that maps large data sets of keys to smaller data sets of a fixed length. Hash functions are not reversible. 
+69,hashtable,A hash table in programming is a collection that uses a hash function to map identifying values (keys) to their associated values.
+70,automata,"In theoretical computer science, automata theory is the study of abstract 'mathematical' machines or systems and the computational problems that can be solved using these machines. These abstract machines are called automata.  (""Automata"", Wikipedia)"
+71,graph,"This ""graph"" tag refers to a graphical data presentation, e.g. chart or diagram. For the mathematical concept use [graph-theory]."
+72,linked-list,"A linked list is a data structure where the list elements are not necessarily stored sequentially but rather each element contains a reference to the next (and optionally the previous) element in the list. This tag should be used with additional tags indicating the programming language being used ([c], [c++], [java], etc.) and any libraries or plug-ins being used such as [c++-standard-library]. The post itself should contain source code for the issue."
+73,list,"The list tag may refer to: a linked list (an ordered set of nodes, each referencing its successor), or a form of dynamic array. Not to be used for HTML lists, use [html-lists] instead."
+74,time-complexity,"The time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the size of the input to the problem. The time complexity of an algorithm is commonly expressed using big O notation, which suppresses multiplicative constants and lower order terms."
+75,shortest-path,"Shortest path problems are problems addressing finding the shortest path from a single source to a target source, usually in a graph."
+76,string-comparison,"string-comparison is the action of comparing strings, resulting in a boolean or an integer indicating the ""distance"" between the strings."
+77,string-matching,"String matching is the problem of finding occurrences of one string (“pattern”, “needle”) in another (“text”, “haystack”)."
+78,radix-sort,Radix sort is a sorting algorithm which sorts key/value pairs with integer keys by ordering digits.
+79,bitstring,"Python module for handling binary data. It offers methods for creating, parsing and editing binary representations of various data types."
+80,huffman-code,"Huffman coding is a lossless compression algorithm that is optimal, assuming all input characters are drawn from a known discrete distribution."
+81,red-black-tree,"A red-black tree is a type of self-balancing binary search tree, a data structure used in computing science, typically used to implement associative arrays."
+82,sparse-matrix,"A sparse matrix is a data structure in which not every entry is explicitly represented. Related are sparse matrix algorithms and data structures, along with questions about implementation and analyses."
+83,recursive-datastructures,A recursive datastructure is a datastructure (e.g. a struct or class) that contains one or several references to instances of the same datastructure as a member.
+84,non-deterministic,Nondeterminism refers either to a computing system where the result may be one of many specified results or to a theoretical construct in which a computing system is allowed to try many options in parallel to search for a result.
+85,2-satisfiability,"The Boolean 2-satisifiability problem asks whether there is a solution to a given collection of paired constraints on Boolean variables. 2SAT, as it is commonly known, is solvable in polynomial time."
+86,set-difference,The difference between two sets A and B consists of all elements that are in A but not in B.
+87,prims-algorithm,Prim's algorithm is a fast algorithm for computing minimum spanning trees.
+88,strassen,Set of algorithms (co)created by Volker Strassen for speeding up number (Schönhage–Strassen algorithm)  and matrix (Strassen Algorithm) multiplications. 
+89,subset-sum,"In computer science, the subset sum problem is one of the important problems in complexity theory and cryptography."
+90,splay-tree,A splay tree is a self-adjusting binary search tree with excellent amortized performance.
+91,dynamic-allocation,"Use for questions related to *dynamic allocation of memory*, such as `malloc()` in C, `new` in C++, etc. . Please notice that the tag is not language specific."
+92,minimax,A concept used in artificial intelligence/game theory for two-player games. The idea is to minimize the opponent's gain and maximize yours. Questions using this tag cover problems understanding/implementing the algorithm.
+93,probability-theory,"Probability theory is the branch of mathematics concerned with distributions, expected values, maximum likelihoods, the description of variation.  The simplest examples are coin flips, dice rolls.  Other common distributions are uniform, binomial, geometric, poisson, weibull, and a menagerie of others.  Applications abound, from simulations, to gaming, to physics, statistics, engineering, economics.  Consider: https://mathoverflow.net"
+94,boolean-operations,"Boolean algebra is the algebra of truth values 0 and 1. The operations are usually taken to be conjunction ∧, disjunction ∨, and negation ¬, with constants 0 and 1."
+95,set-operations,"Set operations as a branch of set theory which includes operations such as: Union, Intersection, Subset, Set Difference, Symmetrical Set Difference, and Set Equality."
+96,lcs,"lcs or Longest Common Subsequence is a problem in search optimization: Given two strings, find the common subsequence in given strings with maximum length. The problem can be solved in polynomial time using dynamic programming approach."
+97,p-np,Used for questions about the P versus NP problem.
+98,planar-graph,"In graph theory, a planar graph is a graph that can be embedded in the plane without edge crossings."
+99,linear-search,"Linear search or sequential search is a method for finding a particular value in a list, that consists of checking every one of its elements, one at a time and in sequence, until the desired one is found. Linear search is the simplest search algorithm. Its worst case cost is proportional to the number of elements in the list."
+100,network-flow,"A network-flow or flow network is a directed graph with a capacity for each edge that can propagate a flow from a source to a sink. It is one of the most powerful problem solving tools in computer science and it is used to solve many network problems, operation research problems, etc."
+101,floyd-warshall,The Floyd-Warshall algorithm is an O(|V|^3) algorithm for computing all-pairs shortest paths in a directed weighted graph.
+102,bucket-sort,"Bucket sort is a generic variant of the pigeonhole sorting algorithm which works by splitting a list into ""buckets"" based on arbitrary boundaries, sorting the buckets, and recombining the buckets in order."
+103,doubly-linked-list,"A doubly-linked-list is a computer science data structure consisting of nodes. Each node has 2 links, one to the node before, and one to the node after. By following these links, the data structure can be traversed both forwards and backwards, but not in a random fashion. These links also make it easy to add nodes to any arbitrary point of the structure."
+104,branch-and-bound,"Branch and bound is a general technique for finding optimal solutions of various combinatorial and integer programming problems. It entails examining candidates (“branches”), while utilizing knowledge of upper and lower limits (“bounds”) to eliminate sub-trees, to find the optimal solution quicker.
+"
+105,induction,"Anything related to mathematical induction principle and techniques applied to computing. Please DO NOT USE this tag for math-only questions since they are off-topic on SO. This tag may be used for math-related questions only if it involves some programming activity or software tools (e.g. automatic theorem proving, etc.)."
+106,union-find,A union/find data structure is a data structure used for maintaining a partition of a set.
+107,hashtree,hashtree
+108,ternary-tree,"Ternary tree is a tree data structure in which each node has at most three child nodes, usually distinguished as ""left"", “mid” and ""right""."
+109,knuth-morris-pratt,The Knuth–Morris–Pratt algorithm is an efficient string matching algorithm.
+110,ternary-search,Ternary search is an efficiency that can be used to find an element in a sorted array. Use this tag for question-related to ternary search only and not the ternary operator.
+111,max-flow,"The maximum-flow problem, a problem in computer science over a flow network"
+112,fibonacci-heap,"A Fibonacci heap is an implementation of a priority queue that supports amortized O(1) insertion, merge, find-min, and decrease-key, along with amortized O(log n) delete and extract-min.  When implemented with a Fibonacci heap, Dijkstra's algorithm and Prim's algorithm can be made to work in O(E + V log V)."
+113,master-theorem,"In the analysis of algorithms, the Master theorem provides a cookbook solution in asymptotic terms (using Big O notation) for recurrence relations of types that occur in the analysis of many divide and conquer algorithms."
+114,multiway-tree,A multiway tree is a tree where each node can have a variable number of children.
+115,counting-sort,counting-sort
+116,recursive-backtracking,Recursive backtracking is a general algorithm for finding solutions to  computational problems that incrementally builds partial solutions and drops those which are identified as futile *as early as possible*.
+117,proof-of-correctness,"Formal mathematical argument that an algorithm meets its specification, i.e. it always produces the correct output for any permitted input."
+118,ternary-search-tree,A ternary search tree is a data structure for efficiently storing string data using prefixes.
+119,sat,"In computer science, the Boolean Satisfiability Problem (or SAT) is the problem of determining if there exists an interpretation that satisfies a given boolean formula."
+120,undirected-graph,An undirected graph has edges which have no orientation. It is a mathematical concept.
+121,linear-probing,"Questions about linear probing, the technique for resolving collisions in hash tables."
+122,red-black-tree-insertion,red-black-tree-insertion
+123,treesort,"A Treesort is a sort algorithm that builds a binary search tree from the elements to be sorted, and then traverses the tree (in-order) so that the elements come out in sorted order."
+124,string-operations,string-operations
+125,lexicographic-ordering,Use this tag to describe the way of ordering a sequence in a lexicographical order
+126,double-hashing,"Double hashing is a collision resolution strategy used in open addressing hash tables. Whenever a collision occurs, a second hash function is computed and added to the initial probe location. This is repeated until a free spot is found."
+127,circular-queue,"Tag for questions about Circular Queues. They are linear FIFO data structures in which the last position is connected back to the first position to make a circle. Also known as ""circular buffer"", ""cyclic buffer"", ""ring buffer""."
+128,abstract-data-type,"An abstract data type (ADT) is a specification for a certain class of data structures that have similar behavior; or for certain data types of one or more programming languages that have similar semantics. An abstract data type is defined indirectly, only by the operations that may be performed on it and by mathematical constraints on the effects of those operations."
+129,traveling-salesman,"The ""traveling salesman problem"" is a classical computer science problem which involves finding the shortest path which could be taken by a hypothetical salesman to make a single visit to each location on a map (in a graph).  "
+130,combinatorics,Deals with combinations of entities belonging to a finite set in accordance with certain constraints.
+131,np-hard,"NP-hard problems (Non-deterministic Polynomial-time hard problems) are those problems which are not easier than any problem in NP; in other words, an algorithm for an NP-hard problem can be used to solve any problem in NP by transforming the input in polynomial time. Problems which are in both NP-Hard and NP are known as NP-Complete."
+132,binary-search,Binary search is an efficient algorithm for finding an element in a sorted array. The basic idea is to cut the search space in half in each step.  The complexity of the algorithm is O(log(n)).
+133,fifo,"Any structure in which the First object In is the First object Out. Synonyms include queue, and pipe."
+134,path-finding,"Pathfinding generally refers to the problem of finding the shortest route between two points, subject to any obstacles. Pathfinding has application in a wide range of areas including robotics and game development. Algorithms for pathfinding tend to be closely related to graph and tree search algorithms."
+135,hashset,A HashSet encapsulates operations that allow for the comparison of elements in collections.  HashSets are frequently used to determine overlapping and unique elements within a collection.
+136,avl-tree,"Named after its inventors, Adelson-Velskii and Landis, an AVL tree is a self-balancing binary search tree.
+"
+137,fibonacci,"The Fibonacci sequence is the sequence defined by F(0) = 0, F(1) = 1, F(n + 2) = F(n) + F(n + 1).  The first few terms are 0, 1, 1, 2, 3, 5, 8."
+138,turing-machines,"A Turing machine is an idealized model of computation consisting of a finite-state control, an infinite tape holding information, and a read head positioned somewhere over the tape.  Turing machines are used in computability theory to reason about the limits of computation, to provide a formal definition for an algorithm, and to provide formal models for nondeterminism."
+139,halting-problem,"The halting problem is a famous problem in theoretical computer science.  Given as input a description of a program (typically a Turing machine) and an input to that program, the Halting problem is to decide whether that program terminates on that input."
+140,turing-complete,A model of computation is called Turing-complete if it is capable of simulating a Turing machine.  Programming languages that are Turing complete are at least as powerful as the most powerful models of feasible computation yet theorized.
+141,backtracking,"Backtracking is a general algorithm for finding solutions to some computational problem, that incrementally builds candidates to the solutions."
+142,greedy,A greedy algorithm is an algorithm that follows the problem solving heuristic of making the locally optimal choice at each stage with the hope of finding a global optimum.
+143,boolean-expression,"A boolean expression is an expression in a programming language that produces a boolean value when evaluated, i.e. one of true or false."
+144,bubble-sort,"Bubble sort is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. The algorithm gets its name from the way smaller elements ""bubble"" to the top of the list. It is little used in industry but useful in teaching.  "
+145,stack-memory,"Questions regarding process stack memory.  Generally, stack memory is sequentially allocated, scoped to successive function calls, and normally referenced by the CPU using a stack pointer register."
+146,graph-traversal,"Graph traversal is the problem of visiting all the nodes in a graph in a particular manner, updating and/or checking their values along the way."
+147,bipartite,A bipartite graph (aka bigraph) is a graph whose vertices can be divided into two disjoint sets such that vertices from one set only connect to the vertices from the other set and not each other. Applications where they arise include resource planning and coding theory.
+148,hamiltonian-cycle,A Hamiltonian cycle is a cycle in a directed or undirected graph that visits each node/vertex exactly once.
+149,array-merge,Array-merge means elements of one or more arrays will be merged together into a single array. 
+150,topological-sort,"A topological sort of a directed graph produces a linear ordering of its vertices such that, for every edge uv, u comes before v in the ordering."
+151,formal-languages,"The study of formal languages concerns the definition, description (generation) and parsing (recognition) of sets of strings over finite sets of symbols. The set of all binary representations of integers, the set of all palindromes over the lowercase Latin alphabet, and the set of all binary representations of Turing machines which do not accept themselves are examples of formal languages."
+152,towers-of-hanoi,A simple puzzle involving moving discs between rods. Commonly used as a programming kata/exercise and frequently set as homework when introducing the concept of recursion.
+153,binomial-heap,"A binomial heap is a type of priority queue data structure implemented as a forest of binomial trees.  Binomial heaps support fast insertion, deletion, and merging."
+154,hungarian-algorithm,"The Hungarian algorithm is a combinatorial optimization algorithm that solves the assignment problem, that of finding a maximum weight matching in a bipartite graph, in polynomial time."
+155,graph-coloring,graph-coloring
+156,selection-sort,"In computer science, a selection sort is a sorting algorithm, specifically an in-place comparison sort. It has O(n^2) time complexity, making it inefficient on large lists, and generally performs worse than the similar insertion sort. Selection sort is noted for its simplicity, and it has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited."
+157,b-plus-tree,"A B+ tree is an n-ary tree with a variable but often large number of children per node, suitable for storing data for efficient retrieval in a block-oriented storage context.  B+ trees are often used in file systems and databases."
+158,boolean-algebra,Anything related to Boolean algebra and its application to computer programs. Boolean algebra is a mathematical theory that allows the representation of truth values `true` and `false` using the logic values `1` and `0` and to perform logic operations on them using algebraic notation.
+159,lifo,"LIFO is an acronym that stands for last in, first out. In computer science and queueing theory this refers to the way items stored in some types of data structures are processed."
+160,stack-allocation,It's a way to allocate memory in the computer.
+161,arrays,"An array is an ordered linear data structure consisting of a collection of elements (values, variables, or references), each identified by one or more indexes. When asking about specific variants of arrays, use these related tags instead: [vector], [arraylist], [matrix]. When using this tag, in a question that is specific to a programming language, tag the question with the programming language being used."
+162,sorting,Sorting is the process of applying some order to a collection of items.
+163,string,"A string is a finite sequence of symbols, commonly used for text, though sometimes for arbitrary data."
+164,algorithm,An algorithm is a sequence of well-defined steps that defines an abstract solution to a problem. Use this tag when your issue is related to algorithm design.
+165,heap,"A heap (data structure) is a tree that is ordered with respect to depth. When the question concerns process memory set aside for dynamic allocation, tag with heap-memory instead."
+166,queue,"A queue is an ordered, first-in-first-out data structure. Typical implementations of queues support pushing elements to the back and popping them off the front position."
+167,optimization,"Optimization is the act of improving a method or design. In programming, optimization usually takes the form of increasing the speed of an algorithm, or reducing the resources it requires. Another meaning of optimization is numerical optimization algorithms used in machine learning."
+168,tree,A tree is a widely-used data structure that emulates a hierarchical tree-like structure with a set of linked nodes.
+169,recursion,Recursion is a kind of function call in which a function calls itself. Such functions are also called recursive functions. Structural recursion is a method of problem solving where the solution to a problem depends on solutions to smaller instances of the same problem.
+170,hash,"A hash function is any well-defined procedure or mathematical function that converts a large amount of data into a small datum, usually a single integer.
+For questions about hashtags as used to label content on social media, use hashtag.
+For questions about URLs and HTML anchors, use fragment-identifier. 
+For questions about Ruby's hash type, use ruby-hash."
+171,insertion-sort,"Insertion sort is a sorting algorithm with worst-case time complexity of O(n²) and best-case time-complexity of Θ(n). It builds the final array by moving elements upward into the sorted position, one at a time."
+172,divide-and-conquer,Divide-and-conquer is a top-down technique for designing algorithms that consists of dividing the problem into smaller subproblems hoping that the solutions of the subproblems are easier to find and then composing the partial solutions into the solution of the original problem.
+173,asymptotic-complexity,Asymptotic complexity is an approximation of the edge case performance of an algorithm used to determine best and worst case scenarios.
+174,minimum-spanning-tree,"A minimum spanning tree (MST) or minimum weight spanning tree is a spanning tree of a connected, undirected graph with the least possible weight."
+175,heapsort,Heapsort is an efficient comparison-based sorting algorithm that divides an input into a sorted and an unsorted part and iteratively shrinks the unsorted part by extracting the largest element and moving that to the sorted part. Run time is O(n log n).
+176,dynamic-arrays,"Anything related to dynamic arrays, i.e. array-like data structures where the length of the array (the number of its elements) can be changed at runtime, thus allowing adding or removing elements without explicit memory allocation and management."
+177,spanning-tree,"A spanning tree in an connected, undirected graph is a subgraph that includes all vertices, is a tree and is connected."
+178,depth-first-search,"Depth-first search (DFS) is an algorithm for traversing or searching a tree, tree structure, or graph. One starts at the root (selecting some node as the root in the graph case) and explores as far as possible along each branch before backtracking."
+179,stable-sort,The sorting algorithm is stable if the initial order of equal values is preserved after sorting.
+180,matrix-multiplication,"Questions related to matrix multiplication, especially implementation. Mathematical questions should consider the [linear-algebra] tag."
+181,data-structures,A data structure is a way of organizing data in a fashion that allows particular properties of that data to be queried and/or updated efficiently.
+182,tree-balancing,"In the context of data structures, tree balancing refers to reorganizing the nodes in a binary search tree to ensure that the height of the tree is not too large."
+183,array-multisort,PHP's array_multisort — sorts multiple or multi-dimensional arrays
+184,set-cover,"In combinatorics, it is the problem of selecting a minimum number of sets so that these sets combined
+contain all the elements found in some reference set."
+185,singly-linked-list,"A linked list in which each node only points to the next node in the list, as opposed to a doubly-linked list in which each node points to both the next and the previous nodes. This tag should be used with additional tags indicating the programming language being used ([c], [c++], [java], etc.) and any libraries or plug-ins being used such as [c++-standard-library]. The post itself should contain source code for the issue."
+186,longest-substring,"Longest Substring is a classic computer science problem: given two strings, find the common strings, then return the string(s) in common with the greatest length."
+187,greatest-common-divisor,"The greatest common divisor (GCD) of two or more non-zero integers, is the largest positive integer that divides the numbers without a remainder."
+188,automata-theory,"Automata theory studies classes of algorithms which can be defined using abstract machines (automata). Classes of automata differ in terms of restrictions to which they are subjected; for the most common classes, the primary difference concerns memory and how transitions between states may access it. More powerful classes can define more powerful algorithms; according to the Church-Turing thesis, no real machine is more powerful than Turing Machines."
+189,array-algorithms,"Array Algorithms are defined as functional algorithms where each step of the algorithm results in a function being applied to an array, producing an array result"
+190,simplex,A simplex is a generalization of the notion of a triangle or tetrahedron to arbitrary dimension.
+191,variable-length-array,A variable length array (VLA) is an array in C99 and other languages whose size is non-constant.
+192,partition-problem,"In computer science, the partition problem is to decide whether a given multiset of integers can be partitioned into two ""halves"" that have the same sum."
+193,bellman-ford,"The Bellman–Ford algorithm computes single-source shortest paths in a weighted digraph. For graphs with only non-negative edge weights, the faster Dijkstra's algorithm also solves the problem. Thus, Bellman–Ford is used primarily for graphs with negative edge weights. The algorithm is named after its developers, Richard Bellman and Lester Ford, Jr."
+194,rabin-karp,The Rabin-Karp string matching algorithm is a string matching algorithm that employs a rolling hash function to speed up the search.
+195,ford-fulkerson,The Ford-Fulkerson algorithm is an algorithm for finding the maximum flow in a flow network.  It only works on graphs with integer capacities and has poor performance on graphs with large flows.
+196,tree-rotation,Tree rotation is an operation on a binary tree that changes the structure without interfering with the order of the elements.
+197,edmonds-karp,The Edmonds-Karp algorithm is a polynomial-time algorithm for finding the maximum flow in a flow network.
+198,minmax-heap,A minmax heap is a type of double-ended priority queue data structure based on a complete binary tree.
+199,treepath,TreePath represents an array of objects that uniquely identify the path to a node in a tree. The elements of the array are ordered with the root as the first element of the array. 
+200,kosaraju-algorithm,Linear time algorithm to find the strongly connected components of a directed graph
+201,simplex-algorithm,simplex-algorithm
+202,euler-path,"For a finite graph, walk every edge exactly once with the start and end node being the same."
+203,graph-query,"Graph query refers to queries made to a graph database query language such as Gremlin, Cypher, GraphQL, NebulaGraph, Microsoft Graph, etc."
+204,array-comparison,array-comparison
+205,heapalloc,heapalloc
+206,computability,computability
+207,balanced-binary-search-tree,balanced-binary-search-tree
+208,best-first-search,best-first-search
+209,huffman-tree,huffman-tree
+210,probing,probing
+211,stability,stability
+212,hamiltonian-path,hamiltonian-path
+213,tree-search,tree-search
+214,queueing,queueing
+215,minimum-spanning-forest,minimum-spanning-forest
+216,heap-size,heap-size
+217,array-pointer,array-pointer
+218,disjoint-union,disjoint-union
+219,min-heap,min-heap
+220,n-ary-tree,n-ary-tree
+221,string-algorithm,string-algorithm
+222,enqueue,enqueue
+223,vertex-cover,vertex-cover
+224,array-address,array-address
+225,dependency-graph,dependency-graph
+226,array-reverse,array-reverse
+227,max-heap,max-heap
+228,boolean-polynomials,boolean-polynomials
+229,cyclic-graph,cyclic-graph
+230,static-array,static-array
+231,arrayofarrays,arrayofarrays
