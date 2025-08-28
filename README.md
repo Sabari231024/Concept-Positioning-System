@@ -63,14 +63,6 @@ This project involved handling large volumes of Stack Overflow data and experime
 - We learned that high data quality is crucial to avoid performance degradation from augmented datasets.
 - Model comparisons highlighted the effectiveness of ALS, BiVAE, and BPR approaches for top-5 tag prediction tasks.
 
-## Contributions
-**Sabari Srinivas**:
-- contributed in Data Extraction and Processing data from StackOverFlow
-- User Tag matrix preparation for recommendar Systems
-- Retrieved graph based on correlation among the tags
-- Fine tuned Bert model to generate Embeddings for the input graph
-- Applied algorithms to like Random walk , Matrix factorization based recommendar system , Bayesian personalized ranking to recommend learning paths.
-
 ## License
 
 This project uses data under a [Creative Commons License](https://creativecommons.org/licenses/).
